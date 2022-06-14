@@ -30,6 +30,4 @@ Second Exam of the Distributed Computing 2022-2 class, taught by [Dr. Victor de 
  
  ## References 
  
-
-
-[https://fractalfoundation.org/resources/what-are-fractals/](https://docs.python.org/3/library/subprocess.html)
+https://docs.python.org/3/library/subprocess.html
