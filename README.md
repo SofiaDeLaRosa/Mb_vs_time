@@ -49,6 +49,8 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
  ## Results
  
+ ![alt text]("C:/Users/chapa/OneDrive/Pictures/3075.jpg")
+ 
 - We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
 - We calculate the latency between with WEB SERVER and DATA SERVER. <br>
 - We use scp to copy files from one server to another. <br>
