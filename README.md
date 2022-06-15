@@ -27,12 +27,22 @@ The *[subprocess](https://www.bogotobogo.com/python/python_subprocess_module.php
  ## Requeriments
 
  
+ 
+ 
  ## Running
  
+We have to clone the repository, create a commit, make a pull request. The code is in the filles called pingmb.py and testpingmb.py.
+To execute them, we it we must do the following instructions from a Linux terminal: 
 
+pingmb.py <ip_end> <Mb>
+
+and
+ 
+testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
  ## Results
  
+ We did SSH key authentication with WEB SERVER and DATA SERVER.
  
  ## References 
 https://docs.python.org/3/library/subprocess.html
