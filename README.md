@@ -49,7 +49,7 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
  ## Results
  
-- We did SSH key authentication with WEB SERVER and DATA SERVER. <br
+- We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
                                                                      
  ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3074.jpg?raw=true) <br>
  ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3075.jpg?raw=true) <br>
