@@ -21,13 +21,20 @@ The *[subprocess](https://www.bogotobogo.com/python/python_subprocess_module.php
  
  ## Metodology
 
-We 
+ We calculate the latency between with WEB SERVER and DATA SERVER and then, We graph it: x-axis = size(Mb) and y-axis = time(s).
+ 
+Libraries
 
+- [Python3](https://www.python.org/downloads/)
+- [Matplotlib](https://matplotlib.org/)
 
  ## Requeriments
 
- 
- 
+ We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
+ We calculate the latency between with WEB SERVER and DATA SERVER. <br>
+ We use scp to copy files from one server to another. <br>
+ We put the last bit in a buffer. <br>
+ We graph the latency: x-axis = size(Mb) and y-axis = time(s).
  
  ## Running
  
