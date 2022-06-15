@@ -30,11 +30,11 @@ Libraries
 
  ## Requeriments
 
- We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
- We calculate the latency between with WEB SERVER and DATA SERVER. <br>
- We use scp to copy files from one server to another. <br>
- We put the last bit in a buffer. <br>
- We graph the latency: x-axis = size(Mb) and y-axis = time(s).
+- We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
+- We calculate the latency between with WEB SERVER and DATA SERVER. <br>
+- We use scp to copy files from one server to another. <br>
+- We put the last bit in a buffer. <br>
+- We graph the latency: x-axis = size(Mb) and y-axis = time(s).
  
  ## Running
  
@@ -49,11 +49,11 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
  ## Results
  
- We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
- We calculate the latency between with WEB SERVER and DATA SERVER. <br>
- We use scp to copy files from one server to another. <br>
- We put the last bit in a buffer. <br>
- We graph the latency: x-axis = size(Mb) and y-axis = time(s).
+- We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
+- We calculate the latency between with WEB SERVER and DATA SERVER. <br>
+- We use scp to copy files from one server to another. <br>
+- We put the last bit in a buffer. <br>
+- We graph the latency: x-axis = size(Mb) and y-axis = time(s).
  
  ## References 
 https://docs.python.org/3/library/subprocess.html
