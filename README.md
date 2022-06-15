@@ -11,7 +11,13 @@ Second Exam of the Distributed Computing 2022-2 class, taught by [Dr. Victor de 
  
  ## Introduction
 
-The *[subprocess](https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/)* module allows spawn processes and obtain their return codes. This module intends to replace several older modules and functions: os.system, os.spawn*.
+The *[subprocess](https://www.bogotobogo.com/python/python_subprocess_module.php)* module allows spawn new processes, connect to their input/output/error pipes and obtain their return codes. It offers a higher-level interface than other modules, and is intended to replace the following functions:
+
+- os.system()
+- os.spawn*()
+- os.popen*()
+- popen2.*()
+- commands.*()
  
  ## Metodology
 
@@ -31,4 +37,5 @@ The *[subprocess](https://recursospython.com/guias-y-manuales/subprocess-creacio
  ## References 
 https://docs.python.org/3/library/subprocess.html
 https://classroom.google.com/u/0/c/NDY4ODc2ODY4MTA2?hl=es
+https://www.bogotobogo.com/python/python_subprocess_module.php
 https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/
