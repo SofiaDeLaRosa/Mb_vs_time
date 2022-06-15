@@ -57,12 +57,11 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3078.jpg?raw=true) <br>
  
 - We calculate the latency between with WEB SERVER and DATA SERVER. <br>
- 
- ![alt text](https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/latency.png) <br> 
- 
 - We use scp to copy files from one server to another. <br>
 - We put the last bit in a buffer. <br>
-- We graph the latency: x-axis = size(Mb) and y-axis = time(s).
+- We graph the latency: x-axis = size(Mb) and y-axis = time(s). <br>
+ 
+  ![alt text](https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/latency.png) 
  
  ## References 
 https://docs.python.org/3/library/subprocess.html
