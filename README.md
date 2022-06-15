@@ -11,7 +11,7 @@ Second Exam of the Distributed Computing 2022-2 class, taught by [Dr. Victor de 
  
  ## Introduction
 
-El modelo *[subprocess](https://www.digitalocean.com/community/tutorials/how-to-use-subprocess-to-run-external-programs-in-python-3-es)* permite invocar procesos desde Python y comunicarse entre ellos
+El modelo *[subprocess](https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/)* permite invocar procesos desde Python y comunicarse entre ellos
  
  ## Metodology
 
@@ -31,3 +31,4 @@ El modelo *[subprocess](https://www.digitalocean.com/community/tutorials/how-to-
  ## References 
 https://docs.python.org/3/library/subprocess.html
 https://classroom.google.com/u/0/c/NDY4ODc2ODY4MTA2?hl=es
+https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/
