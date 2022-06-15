@@ -1,9 +1,8 @@
 import subprocess,sys,re
 
-MB="A"*(1024*1024)
+MB="."*(1024*1024)
 
 def pingmb(ip,MBs,verbose=False):
-    #subprocess.run("echo \"LIIINUUUUX\" > tmp", shell=True)
     with open('tmp','w') as t:
         for i in range(0,int(MBs)):
             t.write(MB)
