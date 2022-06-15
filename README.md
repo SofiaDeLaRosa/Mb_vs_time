@@ -49,9 +49,11 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
  ## Results
  
-![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3075.jpg)
- 
 - We did SSH key authentication with WEB SERVER and DATA SERVER. <br>
+ ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3075.jpg?raw=true)
+ ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3076.jpg?raw=true)
+ ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3077.jpg?raw=true)
+ ![alt text][(https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/3078.jpg?raw=true)
 - We calculate the latency between with WEB SERVER and DATA SERVER. <br>
 - We use scp to copy files from one server to another. <br>
 - We put the last bit in a buffer. <br>
