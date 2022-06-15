@@ -58,7 +58,7 @@ testpingmb.py <Mb_begin> <Mb_end> <Mb_jump> <ip_end>
  
 - We calculate the latency between with WEB SERVER and DATA SERVER. <br>
  
- ![alt text](https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/latency.png)?raw=true) <br> 
+ [latency.png](https://github.com/SofiaDeLaRosa/Mb_vs_time/blob/main/latency.png) <br> 
  
 - We use scp to copy files from one server to another. <br>
 - We put the last bit in a buffer. <br>
