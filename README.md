@@ -11,7 +11,7 @@ Second Exam of the Distributed Computing 2022-2 class, taught by [Dr. Victor de 
  
  ## Introduction
 
-El modelo *[subprocess](https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/)* permite invocar procesos desde Python y comunicarse entre ellos: enviar datos a la entrada (*stdin*) y recibir la información de salida (*stdout*). Es una opción alternativa a os.system() para ejecutar comandos o programas externos 
+El modelo *[subprocess](https://recursospython.com/guias-y-manuales/subprocess-creacion-y-comunicacion-con-procesos/)* permite invocar procesos desde Python y comunicarse entre ellos: enviar datos a la entrada (*stdin*) y recibir la información de salida (*stdout*). Es una opción alternativa a os.system() para ejecutar comandos o programas externos. 
  
  ## Metodology
 
